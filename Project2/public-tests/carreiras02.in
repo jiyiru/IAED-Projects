@@ -1,0 +1,13 @@
+c Carreira1
+c Carreira2
+c Carreira3
+c C4
+c C5
+p Paragem1 1 1
+p Paragem2 2 2
+l Carreira1 Paragem1 Paragem2
+l Carreira2 Paragem2 Paragem1
+c Carreira1
+c Carreira3
+c
+q
